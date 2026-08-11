@@ -2,6 +2,8 @@
 
 ## 进度
 
+企业级 Agent 工程系列 更新中，已发布 1 篇。
+
 JavaScript探秘系列 更新中，已发布 10 篇。
 
 Vue3 探秘系列 更新中，已发布 1 篇。
@@ -37,6 +39,10 @@ rc-form 源码解读 1 篇，已完结。
 - [InfoQ 写作平台](https://www.infoq.cn/profile/1220486/publish)
 
 - [CSDN 博客](https://blog.csdn.net/chencl1986)
+
+# 企业级 Agent 工程
+
+1. [极速狂飙：5天开发一个企业级 Agent（设计篇之一·一条主链与八个模块）](./Articles/enterprise-agent-five-day-speedrun/01-agent-overview.md)
 
 # JavaScript探秘
 1. [JavaScript 对象遍历为什么要使用 hasOwnProperty 检查属性](https://github.com/chencl1986/Blog/issues/419)
