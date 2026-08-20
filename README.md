@@ -2,7 +2,7 @@
 
 ## 进度
 
-企业级 Agent 工程系列 更新中，已发布 1 篇。
+企业级 Agent 工程系列 更新中，已发布 2 篇。
 
 JavaScript探秘系列 更新中，已发布 10 篇。
 
@@ -42,7 +42,8 @@ rc-form 源码解读 1 篇，已完结。
 
 # 企业级 Agent 工程
 
-1. [极速狂飙：5天开发一个企业级 Agent（设计篇之一·一条主链与八个模块）](./Articles/enterprise-agent-five-day-speedrun/01-agent-overview.md)
+1. [5天开发企业级 Agent（设计篇 01）｜一条主链与八个模块](./Articles/enterprise-agent-five-day-speedrun/01-agent-overview.md)
+2. [5天开发企业级 Agent（设计篇 02）｜不只是工作流](./Articles/enterprise-agent-five-day-speedrun/02-agent-autonomy.md)
 
 # JavaScript探秘
 1. [JavaScript 对象遍历为什么要使用 hasOwnProperty 检查属性](https://github.com/chencl1986/Blog/issues/419)
